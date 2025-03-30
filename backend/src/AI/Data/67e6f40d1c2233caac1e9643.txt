@@ -1,0 +1,7 @@
+User ID: 67e6f40d1c2233caac1e9643
+Name: Akshat Mittal
+Email: akshat@gmail.com
+
+Transactions:
+
+2025-03-30 | Beverages | Amount: 100

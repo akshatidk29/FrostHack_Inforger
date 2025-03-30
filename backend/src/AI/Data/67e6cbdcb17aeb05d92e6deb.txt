@@ -1,0 +1,19 @@
+User ID: 67e6cbdcb17aeb05d92e6deb
+Name: Akshat
+Email: a@g.com
+
+Transactions:
+
+2025-03-30 | Food | Amount: 500
+
+2025-03-25 | Transport | Amount: 5000
+
+2025-03-01 | Rent | Amount: 10000
+
+2025-02-01 | Rent | Amount: 10000
+
+2025-03-30 | Rent | Amount: 80000
+
+2025-03-30 | Fees | Amount: 30000
+
+2025-03-30 | Shopping | Amount: 1000
